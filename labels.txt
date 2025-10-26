@@ -1,0 +1,10 @@
+Healthy Leaf
+Bacterial Spot
+Early Blight
+Late Blight
+Leaf Curl Virus
+Leaf Mold
+Septoria Leaf Spot
+Target Spot
+Yellow Leaf Curl
+Mosaic Virus
